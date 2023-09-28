@@ -4,7 +4,7 @@
 spring legacy team project
 <br><br>
 
-![30-2](https://github.com/cho1ok/project1_escape_game/assets/117049958/b8d7ea27-72e7-4cf1-9c67-9b3b475474d4)
+![포트폴리오_최종-022](https://github.com/cho1ok/project1_escape_game/assets/117049958/dc2a1d2d-a037-4327-bf4b-d4573462043d)
 <br><br><br>
 
 &nbsp;
